@@ -14,7 +14,7 @@ For the project were used :
 
 Structure of the Database (ER, table schema)
 
-
+![Εικόνα1](https://user-images.githubusercontent.com/45511638/141685989-903c6988-53c1-409d-8472-845210cf246f.png)
 
 ## Features
 
