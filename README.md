@@ -12,7 +12,7 @@ For the project were used :
 - JavaSccript
 - MySQL
 
-Structure of the Database (ER, table schema)
+> Structure of the Database (ER, table schema)
 
 ![Εικόνα1](https://user-images.githubusercontent.com/45511638/141685989-903c6988-53c1-409d-8472-845210cf246f.png)
 
@@ -44,7 +44,7 @@ The Administrator accesses the system with an appropriate username and password 
 
 ## Use cases
 
-https://user-images.githubusercontent.com/45511638/141688597-d19931cb-a878-471b-992f-c72473c83764.mp4
+https://user-images.githubusercontent.com/45511638/141688839-ff4ed536-e6f1-42de-ab8c-f6590a127d93.mp4
 
 
 ## License
