@@ -24,7 +24,7 @@ For the project were used :
 
 - **Upload data.** The user selects a HAR file from his computer. The file edited locally to delete sensitive data and then the user has two options: a) Upload it to the system or b) Save the edited file locally.
 
-- **Profile management.** The user can change the username / password and see basic statistics for the data he has uploaded (date of last upload, number of registrations)
+- **Profile management.** The user can change the username, password and see basic statistics for the data he has uploaded (date of last upload, number of registrations).
 
 - **Data visualization.** The user can see on a map the locations of the IPs to which he has sent HTTP requests. Specifically, the map shows a heatmap that depicts the distribution of the number of records related to HTML, PHP, ASP, JSP (or pure domains, without path) web objects.
 
