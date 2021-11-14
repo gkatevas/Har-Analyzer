@@ -42,6 +42,10 @@ The Administrator accesses the system with an appropriate username and password 
 
 - **Data visualization.** The administrator can see on a map the locations of the IPs to which he has sent HTTP requests. Specifically, a marker is displayed per IP, with lines connecting each user's city of origin with each icon. The thickness of the lines is adjusted according to the number of requests made to the specific IP, normalized to the maximum number made to the most popular IP.
 
+## Use cases
+
+https://user-images.githubusercontent.com/45511638/141688597-d19931cb-a878-471b-992f-c72473c83764.mp4
+
 
 ## License
 
